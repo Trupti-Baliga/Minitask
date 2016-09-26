@@ -1,0 +1,2 @@
+# Minitask
+Quick Sort
